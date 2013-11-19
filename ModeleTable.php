@@ -72,7 +72,8 @@
             else{
                 return NULL;
             }
-
+        }
+	
         static function getNbClient ($i)
         {
             global $connection;
